@@ -15,7 +15,7 @@ tcp，ip
 
 webpack以及rollup tree-shaking相关的理解
 
-前端渲染性能指标理解 first paint， first lastest content paint
+前端渲染性能指标理解
 
 ## node 相关
 
