@@ -21,9 +21,10 @@ webpack以及rollup tree-shaking相关的理解
 
 前端渲染性能指标理解
 
-## node 相关
+## 前端工程相关
 
 thread-loader 学习
 
+vite 学习  [源码分析](https://github.com/zhangyuang/vite-design)
 
 
