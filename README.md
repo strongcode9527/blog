@@ -27,4 +27,5 @@ thread-loader 学习
 
 vite 学习  [源码分析](https://github.com/zhangyuang/vite-design)
 
+esbuild 学习 [带翻译文章](https://esbuild.github.io/faq/)
 
