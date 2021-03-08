@@ -25,7 +25,10 @@ webpack以及rollup tree-shaking相关的理解
 
 thread-loader 学习
 
-vite 学习  [源码分析](https://github.com/zhangyuang/vite-design)
+[vite 学习](https://github.com/strongcode9527/blog/issues/8)
 
 esbuild 学习 [带翻译文章](https://esbuild.github.io/faq/)
 
+## 前端安全
+
+[xss攻击](https://github.com/strongcode9527/blog/issues/7)
