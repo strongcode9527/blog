@@ -17,9 +17,14 @@ dns
 
 ## 前端性能优化
 
+浏览器的进程与线程 [学习文章](http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html)
+
+页面循环系统
+
 webpack以及rollup tree-shaking相关的理解
 
-前端渲染性能指标理解
+前端渲染性能指标理解 
+
 
 ## 前端工程相关
 
@@ -28,6 +33,7 @@ thread-loader 学习
 [vite 学习](https://github.com/strongcode9527/blog/issues/8)
 
 esbuild 学习 [带翻译文章](https://esbuild.github.io/faq/)
+
 
 ## 前端安全
 
