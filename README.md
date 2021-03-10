@@ -15,7 +15,7 @@ dns
 
 局域网ip地址，以及集线器，网络穿透等理解
 
-## 前端性能优化
+## 前端基础
 
 浏览器的进程与线程 [学习文章](http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html)
 
@@ -25,6 +25,9 @@ webpack以及rollup tree-shaking相关的理解
 
 前端渲染性能指标理解 
 
+执行上下文
+
+调用栈
 
 ## 前端工程相关
 
