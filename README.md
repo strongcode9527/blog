@@ -29,6 +29,8 @@ webpack以及rollup tree-shaking相关的理解
 
 调用栈
 
+umd/commonjs webpack 以及 rollup如何处理
+
 ## 前端工程相关
 
 thread-loader 学习
