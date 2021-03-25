@@ -25,9 +25,7 @@ webpack以及rollup tree-shaking相关的理解
 
 前端渲染性能指标理解 
 
-执行上下文
-
-调用栈
+[调用栈、执行上下文、变量环境以及词法环境](https://github.com/strongcode9527/blog/issues/10)
 
 umd/commonjs webpack 以及 rollup如何处理
 
