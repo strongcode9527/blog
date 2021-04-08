@@ -27,6 +27,8 @@ webpack以及rollup tree-shaking相关的理解
 
 [调用栈、执行上下文、变量环境以及词法环境](https://github.com/strongcode9527/blog/issues/10)
 
+[作用域以及作用域链](https://github.com/strongcode9527/blog/issues/11)
+
 umd/commonjs webpack 以及 rollup如何处理
 
 ## 前端工程相关
