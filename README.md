@@ -7,11 +7,13 @@
 
 [https](https://github.com/strongcode9527/blog/issues/1)
 
-dns
+[dns 解析记录](https://www.jianshu.com/p/13f356d6a676)
 
-[tcp、ip 协议](https://github.com/strongcode9527/blog/issues/5)
+[tcp连接，抓包学习](https://github.com/strongcode9527/blog/issues/5)
 
 [http2](https://github.com/strongcode9527/blog/issues/6)
+
+[强制缓存和协商缓存](https://www.jianshu.com/p/65f4bb99e68f)
 
 局域网ip地址，以及集线器，网络穿透等理解
 
