@@ -31,6 +31,8 @@ webpack以及rollup tree-shaking相关的理解
 
 [作用域以及作用域链](https://github.com/strongcode9527/blog/issues/11)
 
+[浏览器内存，栈内存，以及堆内存](https://github.com/strongcode9527/blog/issues/12)
+
 umd/commonjs webpack 以及 rollup如何处理
 
 ## 前端工程相关
