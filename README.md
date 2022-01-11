@@ -17,7 +17,7 @@
 
 局域网ip地址，以及集线器，网络穿透等理解
 
-cookie (待填坑)
+[cookie](https://github.com/strongcode9527/blog/issues/13)
 
 ## 前端基础
 
