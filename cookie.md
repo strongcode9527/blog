@@ -37,13 +37,31 @@ cookie 的最长有效时间，如果没有设置这个属性，浏览器关闭�
 
 ### Domain
 
+域名规定 cookie 可被发送的域名,如果不设置，默认为当前页面的 host。如果设置了，子域名都是允许的。
+
+比如 Domain = a.com，那么域名 b.a.com 就是允许访问这个 cookie 的。
+
 ### Path
+
+页面路径和域名的设置原理基本一致，/ 字符被认为是文件名的分隔符。 如果你设定 Path=/docs  那么
+
+- /docs
+- /docs/web
+都是可以访问 cookie 的
+- 
+
 
 ### Secure
 
+设定之后，只有是 http 协议才能访问这个 cookie
+
 ### HttpOnly
+
+设置后 javascript 无法访问这个 cookie
 
 ### SameSite
 
-
+- Lax
+- Strict
+- None
 
