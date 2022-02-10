@@ -39,9 +39,9 @@ umd/commonjs webpack 以及 rollup如何处理
 
 ## 前端工程相关
 
-thread-loader 学习
-
 [vite 学习](https://github.com/strongcode9527/blog/issues/8)
+
+[vite 整理完整版](https://github.com/strongcode9527/blog/issues/14)
 
 esbuild 学习 [带翻译文章](https://esbuild.github.io/faq/)
 
