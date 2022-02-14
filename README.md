@@ -1,5 +1,7 @@
 # blog
-个人博客,用于系统总结前端基础知识。会持续更新，欢迎 star 👏🏻
+个人博客,用于系统总结前端基础知识。
+
+**会持续更新，欢迎 star 👏🏻**
 
 ## 计算机组成原理
 
@@ -15,19 +17,13 @@
 
 [强制缓存和协商缓存](https://www.jianshu.com/p/65f4bb99e68f)
 
-局域网ip地址，以及集线器，网络穿透等理解
-
 [cookie](https://github.com/strongcode9527/blog/issues/13)
 
 ## 前端基础
 
-浏览器的进程与线程 [学习文章](http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html)
+[浏览器的进程与线程](http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html)
 
 [消息队列，宏任务与微任务](https://github.com/strongcode9527/blog/issues/9)
-
-webpack以及rollup tree-shaking相关的理解
-
-前端渲染性能指标理解 
 
 [调用栈、执行上下文、变量环境以及词法环境](https://github.com/strongcode9527/blog/issues/10)
 
@@ -35,7 +31,6 @@ webpack以及rollup tree-shaking相关的理解
 
 [浏览器内存，栈内存，以及堆内存](https://github.com/strongcode9527/blog/issues/12)
 
-umd/commonjs webpack 以及 rollup如何处理
 
 ## 前端工程相关
 
