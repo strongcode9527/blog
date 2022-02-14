@@ -38,8 +38,6 @@
 
 [vite 整理完整版](https://github.com/strongcode9527/blog/issues/14)
 
-esbuild 学习 [带翻译文章](https://esbuild.github.io/faq/)
-
 ## 前端安全
 
 [xss攻击](https://github.com/strongcode9527/blog/issues/7)
