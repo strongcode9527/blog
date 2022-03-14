@@ -19,6 +19,8 @@
 
 [cookie](https://github.com/strongcode9527/blog/issues/13)
 
+[https 证书]
+
 ## 前端基础
 
 [浏览器的进程与线程](http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html)
@@ -36,7 +38,7 @@
 
 [vite 学习](https://github.com/strongcode9527/blog/issues/8)
 
-[vite 整理完整版](https://github.com/strongcode9527/blog/issues/14)
+[vite-esbuild](https://github.com/strongcode9527/blog/issues/14)
 
 ## 前端安全
 
