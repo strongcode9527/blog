@@ -33,12 +33,13 @@
 
 [浏览器内存，栈内存，以及堆内存](https://github.com/strongcode9527/blog/issues/12)
 
-
 ## 前端工程相关
 
 [vite 学习](https://github.com/strongcode9527/blog/issues/8)
 
 [vite-esbuild](https://github.com/strongcode9527/blog/issues/14)
+
+[vite-文件处理]()
 
 ## 前端安全
 
